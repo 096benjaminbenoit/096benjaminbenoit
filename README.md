@@ -6,7 +6,7 @@
 <h2 align="center">About me 💬</h2>
 <h3 align="center">
 I'm a fullstack web developer student in south of France ☀️ <br>
-I'm currently studying for a Bachelor's Degree in software development !
+I'm currently studying for a software development Bachelor's Degree !
 </h3>
 
 
