@@ -10,7 +10,7 @@ I'm currently studying for a software development Bachelor's Degree !
 </h3>
 
 
-<h2 align="center">👨‍💻 I Working with :</h2>
+<h2 align="center">👨‍💻 I Work with :</h2>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,symfony,graphql,next,nodejs,figma,tailwind,bootstrap,postgres,mysql" />
