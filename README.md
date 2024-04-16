@@ -16,7 +16,7 @@ I'm currently studying for a software development Bachelor's Degree !
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,symfony,graphql" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=next,nodejs,figma,tailwind,bootstrap,postgres,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=next,nodejs,figma,tailwind,laravel,postgres,mysql,docker" />
 </p>
 
 <div align="center">
