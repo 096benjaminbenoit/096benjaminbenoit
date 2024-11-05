@@ -6,7 +6,6 @@
 <h2 align="center">About me 💬</h2>
 <h3 align="center">
 I'm a fullstack web developer student in south of France ☀️ <br>
-I'm currently studying for a software development Bachelor's Degree !
 </h3>
 
 
@@ -21,18 +20,4 @@ I'm currently studying for a software development Bachelor's Degree !
 
 <div align="center">
     <img hight="100" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=096benjaminbenoit&show_icons=true&locale=en&layout=compact" alt="096benjaminbenoit" />
-</div>
-
-<h2 align="center">Contact me 📨</h2>
-<h3 align="center">You can contact me for a job or just to chat !</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/benjaminbenoit01/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:096benjaminbenoit@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-    <a href="https://twitter.com/_benjaminbenoit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
 </div>
