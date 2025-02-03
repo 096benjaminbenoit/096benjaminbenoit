@@ -5,7 +5,7 @@
 
 <h2 align="center">About me 💬</h2>
 <h3 align="center">
-I'm a fullstack web developer student in south of France ☀️ <br>
+I'm a fullstack web developer in south of France ☀️ <br>
 </h3>
 
 
